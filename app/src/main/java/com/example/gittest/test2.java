@@ -6,4 +6,7 @@ public class test2 {
     test2(){
         String constructor="This is the constructor";
     }
+
+
+
 }
