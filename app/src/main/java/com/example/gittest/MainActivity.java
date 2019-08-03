@@ -17,6 +17,15 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+    public void add()
+    {
+        int i =0;
+        int y = 10;
+
+        int t = 0;
+    }
+
+
 
 
 }
