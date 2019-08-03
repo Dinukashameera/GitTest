@@ -21,13 +21,7 @@ public class MainActivity extends AppCompatActivity {
     {
         int i =0;
         int y = 10;
-        /*
-        *
-        * hello
-        * is
-        * it me u looking for
-        *
-        * */
+
         int t = 0;
     }
 
